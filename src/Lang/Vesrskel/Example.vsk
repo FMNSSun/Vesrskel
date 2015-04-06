@@ -1,0 +1,13 @@
+procedure Int Main
+ params
+   Int Argc
+   @String Args
+ locals
+   Int I
+begin
+  I := 10
+  while (I >= 0)
+   do
+    I := (I - 1)
+  end
+end
